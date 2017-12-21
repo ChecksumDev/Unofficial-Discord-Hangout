@@ -1,3 +1,3 @@
-#Unoffical Discord Hangout - UDH
+[Unoffical Discord Hangout] [-] [UDH]
 
-Report your Issues Here.
+Report your Issues In the Issues Tab.
