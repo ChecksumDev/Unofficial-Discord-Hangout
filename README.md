@@ -1,5 +1,5 @@
 Unoffical Discord Hangout - [UDH]
 
-(b)Suggest ideas to UDH and report problems in Issues.
+Suggest ideas to UDH and report problems in Issues.
 
-(b)Discord: https://discord.gg/dked7KN
+Discord: https://discord.gg/dked7KN
