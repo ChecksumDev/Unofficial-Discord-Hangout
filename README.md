@@ -1,3 +1,3 @@
 # Unofficial-Discord-Hangout
 
-(b) Support your Issues Here.
+{b} Support your Issues Here.
